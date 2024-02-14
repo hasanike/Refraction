@@ -9,7 +9,7 @@ Technologies:
     Aside from HTML no other technologies were used. 
 
 Screenshot:
-    ![alt text](/develop/assets/images/HoriseonScreenshot.png "Screenshot of page")
+    ![alt text](/Develop/assets/images/HoriseonScreenshot.png "Visual of page")
 
 Deployed Link:
     https://github.com/hasanike/Refraction-practice
