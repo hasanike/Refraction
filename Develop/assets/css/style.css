@@ -10,7 +10,7 @@ body {
     margin: 10px;
 }
 
-/* styling for the heading on the page. */
+/* styling for the header  on the page. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,11 +22,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/* stylistic choice for the title of the page. */
+/* stylistic choice for portion of the title of the page. */
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*  */
+/*  Styles for the navigation bar*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,25 +34,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* remove the bullets from the unordered list */
 .header nav ul {
     list-style-type: none;
 }
-
+ /* gives each item from the UL positioning */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* font styling for the LI in the navbar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* style for font in all the sections wrapped in P tags*/
 p {
     font-size: 16px;
 }
-
+/* gives styling to the photo in the middle of the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -140,6 +140,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* styles for the footer */
 .footer {
     padding: 30px;
     clear: both;
