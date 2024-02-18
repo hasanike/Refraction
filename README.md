@@ -7,23 +7,20 @@
 - [Refractoror-Horiseon](#refractoror-horiseon)
   - [Description:](#description)
   - [Table of Contents:](#table-of-contents)
-    - [Challenge](#challenge)
-    - [Technologies](#technologies)
-    - [Screenshots](#screenshots)
-    - [Deployed Link](#deployed-link)
+  - [Challenge](#challenge)
+  - [Technologies](#technologies)
+  - [Screenshots](#screenshots)
+  - [Deployed Link](#deployed-link)
     
-
-
-
-### Challenge 
+## Challenge 
 ![alt text](/assets/images/Screenshot%202024-02-13%20at%2010.05.50%20PM.png "User Criteria/Challenge")
 
 
-### Technologies
+## Technologies
  Aside from HTML/CSS no other technologies were used. 
 
-### Screenshots
+## Screenshots
  ![alt text](/assets/images/HoriseonScreenshot.png "Image of refracted webpage")
 
-### Deployed Link
+## Deployed Link
     https://hasanike.github.io/Refraction/
