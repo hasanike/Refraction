@@ -20,7 +20,7 @@
 
 
 ### Technologies
- Aside from HTML no other technologies were used. 
+ Aside from HTML/CSS no other technologies were used. 
 
 ### Screenshots
  ![alt text](/assets/images/HoriseonScreenshot.png "Image of refracted webpage")
