@@ -1,10 +1,10 @@
-# Refractoror-Horiseon
+# Refractor-Horiseon
 
 ## Description:
  The starter code for Homework Number 1 is a refraction. My assignment was to restructure the code, but not change the external behavior of the code itself. This was to test knowledge of semantic elements and to introduce the concept of DRY as it pertains to CSS functions. 
 
 ## Table of Contents:
-- [Refractoror-Horiseon](#refractoror-horiseon)
+- [Refractor-Horiseon](#refractor-horiseon)
   - [Description:](#description)
   - [Table of Contents:](#table-of-contents)
   - [Challenge](#challenge)
